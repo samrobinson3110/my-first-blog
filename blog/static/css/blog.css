@@ -5,9 +5,10 @@
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
+    color: #bb1717;
     font-size: 36pt;
     text-decoration: none;
+    float: left;
 }
 
 .content {
