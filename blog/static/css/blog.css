@@ -7,7 +7,9 @@
 .page-header2 {
     background-color: #5f6ec2;
     margin-top: -30;
+    margin-bottom: 20px;
     padding: 3px 20px 10px 20px;
+
  }
 
  .page-footer {
@@ -37,15 +39,20 @@
     text-align: right;
 }
 .content {
-    margin-left: 40px;
+    background-color: yellow;
+    float: middle;
 }
 
 h1, h2, h3, h4 {
     font-family: 'Arial', cursive;
 }
 
+h2 {
+    background-color: #6473c5;
+}
+
 .date {
-    padding: 10px;
+    padding: 5px;
     color: #828282;
 }
 
@@ -65,7 +72,12 @@ h1, h2, h3, h4 {
 }
 
 .post {
-    margin-bottom: 30px;
+    padding-top: 0px;
+    margin-bottom: 20px;
+    border: solid;
+    border-color: #1d35bd;
+    border-width: 20px;
+    
 }
 
 .post h2 a, .post h2 a:visited {
